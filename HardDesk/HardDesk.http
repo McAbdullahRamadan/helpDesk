@@ -1,0 +1,6 @@
+@HardDesk_HostAddress = http://localhost:5046
+
+GET {{HardDesk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
