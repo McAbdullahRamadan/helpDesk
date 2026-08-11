@@ -1,7 +1,14 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Mohamed\\source\\repos\\HardDesk\\HardDesk\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16DA12AD-E39A-4E9D-8D12-C7BA818246E1}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\harddesk\\domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DA12AD-E39A-4E9D-8D12-C7BA818246E1}|..\\Domain\\Domain.csproj|c:\\users\\mohamed\\source\\repos\\harddesk\\domain\\entities\\systems\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +29,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\HardDesk\\Domain\\Entities\\Systems\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Systems\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\HardDesk\\Domain\\Entities\\Systems\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Systems\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T14:15:51.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\source\\repos\\HardDesk\\Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Common\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\source\\repos\\HardDesk\\Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "..\\Domain\\Common\\BaseAuditableEntity.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T14:12:02.903Z",
+              "EditorCaption": ""
             }
           ]
         }
